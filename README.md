@@ -1,4 +1,4 @@
-# Qortal Project - Official Repo
+# Qortal Project - Copy of Official Repo (initial fork: 21/08/2020)
 
 ## Build / run
 
